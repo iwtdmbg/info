@@ -2,6 +2,6 @@
 >This is the information website for the I want to die community
 
 ## `Links`
-*https://discord.gg/tcBehZPxeb - IWTD Discord
+https://discord.gg/tcBehZPxeb - IWTD Discord
 
-*https://discord.gg/utmkRgpjVC - IWTD Maintenance Discord
+https://discord.gg/utmkRgpjVC - IWTD Maintenance Discord
