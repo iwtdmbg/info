@@ -10,6 +10,10 @@ html {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+.header1 {
+    color: white;
+}
+
 .disclaimer {
     font-size:x-small;
     color: red;
